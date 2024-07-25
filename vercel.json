@@ -1,5 +1,5 @@
 {
-  "redirects": [{"source": "/id",       "destination": "/https:genply.id",       "permanent": true     }
+  "redirects": [{"source": "/id",       "destination": "/https:genply.id",       "permanent": true     },{"source": "/",       "destination": "/https:gen5am.com",       "permanent": true     }
 ],
   "rewrites": [
     {
