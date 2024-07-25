@@ -1,8 +1,11 @@
 {
+  "redirects": [{"source": "/id",       "destination": "/https:genply.id",       "permanent": true     }
+],
   "rewrites": [
     {
       "source": "/(.*)",
       "destination": "https://gen5am.com/$1"
- }
+    }
   ]
 }
+    
